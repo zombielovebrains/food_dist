@@ -10,6 +10,7 @@ module.exports = {
     path: __dirname + '/js'
   },
   watch: true,
+  
 
   devtool: "source-map",
 
