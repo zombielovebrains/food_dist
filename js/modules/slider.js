@@ -15,7 +15,6 @@ const totalSlideBox = slider.querySelector('#total');
 let slideIndex = 1;
 let offset = 0;
 let oneSlideWidth = window.getComputedStyle(sliderWrapper).width;
-console.log(oneSlideWidth);
 
 function configureSlider() {
 
